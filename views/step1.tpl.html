@@ -1,0 +1,64 @@
+<section>
+	<h1>Step1</h1>
+	
+	<!-- For displaying the values with the keys
+	<table>
+		<tr><th data-ng-repeat = "(key,value) in result[1]">{{key}}</th>
+		</tr>
+		
+		<tr data-ng-repeat = "(key,value) in result">
+		<td>{{value.Age}}</td>		
+		<td>{{value.Name}}</td>
+		<td>{{value.Total}}</td>
+		</tr>
+		
+	</table>-->
+	
+<!-- For displaying value of radio buttons
+	<label><input type="radio" value="manish" name ="radio1" data-ng-model="m"  data-ng-change="m">male</label>
+	<label><input type="radio" value="priya" name ="radio1" data-ng-model="m"  data-ng-change="f">female</label>
+
+	<span>{{m}}</span>
+<article data-ng-repeat= "(key,value) in result">
+	<div class="row margin-top-10 margin-bottom-10" ng-if="value.isActive== true">
+		<div class="col-md-12 highlight padding-top-10 padding-bottom-10">
+			
+				<div class="col-md-3">
+					<label><input type="checkbox" data-ng-model = "value.selected" data-ng-change = "update(key,value);"/></label><span class="col-md-offset-1">Name</span> - <span class="col-md-offset-1">{{value.name}}</span>
+				</div>
+				<div class="col-md-3" ng-if="value.isActive== true">
+					<span>Company</span> -<span class="col-md-offset-1">{{value.company}}</span>
+				</div>
+			
+			
+				<div class="col-md-3" ng-if="value.isActive== true">
+					<span>Address</span> -<span class="col-md-offset-1">{{value.address}}</span>
+				</div>
+				<div class="col-md-3" ng-if="value.isActive== true">
+					<span>About</span> -<span class="col-md-offset-1">{{value.about}}</span>
+				</div>
+			
+		</div>	
+	</div>
+</article> displaying data from JSON.....  -->
+<article>
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-12">
+			<div class="col-sm-offset-5">
+				<form method="">
+					<div class="col-sm-12">
+						<label>Name : <input type="text" data-ng-model = "value.txt"/></label>
+					</div>
+				</form>
+			</div>
+		</div>		
+	</div>
+	
+</div>
+
+	
+</article>
+	<a href="javascript:void(0);" class=" btn btn-primary pull-right" data-ng-click = "proceede('/step2frm');">Proceede</a>
+	
+</section>

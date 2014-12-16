@@ -1,0 +1,36 @@
+<section>
+	<h1>hello Step2</h1>
+	<!-- For the data received from previous page/controller.... -->
+	<article data-ng-repeat= "items in step2">
+	<div class="row margin-top-10 margin-bottom-10">
+		<div class="col-sm-12 highlight padding-top-10 padding-bottom-10">
+			
+				<div class="col-md-3">
+					<label><input type="checkbox" data-ng-model = "items.selected" data-ng-change = "update(key,value);"/></label><span class="col-sm-offset-1">Name</span> - <span class="col-sm-offset-1">{{items.name}}</span>
+				</div>
+				<div class="col-sm-3">
+					<span>Company</span> -<span class="col-md-offset-1">{{items.company}}</span>
+				</div>
+			
+			
+				<div class="col-sm-3">
+					<span>Address</span> -<span class="col-sm-offset-1">{{items.address}}</span>
+				</div>
+				<div class="col-sm-3">
+					<span>About</span> -<span class="col-sm-offset-1">{{items.about}}</span>
+				</div>
+			
+		</div>	
+		<div class="col-sm-12 margin-top-10">
+			<div class="col-sm-6">
+			<span>Friends list</span>-
+				<ul>
+					<li data-ng-repeat = "frnd in items.frinds"><span class ="clearfix">{{frnd.name}}</span></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</article>
+	<a href="javascript:void(0);" class=" btn btn-primary pull-left">Back</a>
+	<a href="javascript:void(0);" class=" btn btn-primary pull-right" data-ng-click = "proceede('/step3inf');">Proceede</a>
+</section>

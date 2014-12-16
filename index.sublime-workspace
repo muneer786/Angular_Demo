@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"part1"
+			],
+			[
+				"g",
+				"globalObject"
+			],
+			[
+				"ge",
+				"getter"
+			],
+			[
+				"da",
+				"dataResponse"
+			],
+			[
+				"glo",
+				"globalObject"
+			],
+			[
+				"key",
+				"key1"
+			],
+			[
+				"name",
+				"name1"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"step",
+				"step1Obj"
+			],
+			[
+				"fa",
+				"factoryGlobal"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"err",
+				"errResult"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"UR",
+				"url"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ste",
+				"step1"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fu",
+				"fundGroups"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tems",
+				"terms"
+			],
+			[
+				"fund",
+				"fundGroupId"
+			],
+			[
+				"su",
+				"successData"
+			],
+			[
+				"used",
+				"userId"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"rem",
+				"removeUser"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"adde",
+				"addedEmail"
+			],
+			[
+				"added",
+				"addedName"
+			],
+			[
+				"displ",
+				"displayErrorMessage"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"add",
+				"addDataObj"
+			],
+			[
+				"expire",
+				"expireFunds"
+			],
+			[
+				"remo",
+				"removeModal"
+			],
+			[
+				"ra",
+				"radio"
+			],
+			[
+				"ng-",
+				"ng-model"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"data",
+				"dataConfirmObj"
+			],
+			[
+				"td",
+				"tdindex"
+			],
+			[
+				"save",
+				"saveId2"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"F",
+				"FUNDID"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"new",
+				"newStr"
+			],
+			[
+				"page",
+				"pageTwo"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"E",
+				"EPP"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"v",
+				"vm"
+			],
+			[
+				"isPr",
+				"isProductEmpty"
+			],
+			[
+				"allowa",
+				"allowance"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cle",
+				"clearspends"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"is",
+				"isChanged"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"vales",
+				"valuesDefine"
+			],
+			[
+				"edit",
+				"editState"
+			],
+			[
+				"all",
+				"allowances"
+			],
+			[
+				"pr",
+				"promotionObj"
+			],
+			[
+				"tab",
+				"table	Tag"
+			],
+			[
+				"sele",
+				"selectedProductsObj"
+			],
+			[
+				"prod",
+				"productId"
+			],
+			[
+				"promo",
+				"promotionFactory"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"ex",
+				"exceptionProduct"
+			],
+			[
+				"alo",
+				"allowance"
+			],
+			[
+				"se",
+				"selectedProductsList"
+			],
+			[
+				"promotion",
+				"promotionObj"
+			],
+			[
+				"edi",
+				"editedAllowancesObj"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"cur",
+				"currentlyApplied"
+			],
+			[
+				"curr",
+				"currentAmount"
+			],
+			[
+				"indexof",
+				"indexOfElem"
+			],
+			[
+				"prom",
+				"promotionFactory"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"proo",
+				"promotionObj"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"allo",
+				"alloVal"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"vol",
+				"volume"
+			],
+			[
+				"volume",
+				"Volume"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"Curr",
+				"currentlyApplied"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"curren",
+				"currentAmount"
+			],
+			[
+				"Ke",
+				"keyAll"
+			],
+			[
+				"spend",
+				"spendValue"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"spen",
+				"spendValue"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"tac",
+				"tacticValue"
+			],
+			[
+				"amo",
+				"amount"
+			],
+			[
+				"ta",
+				"tacticValue"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"cart",
+				"cartValue"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"sel",
+				"selectedProductsObj"
+			],
+			[
+				"Tact",
+				"Tactic"
+			],
+			[
+				"Ob",
+				"selectedProductsObj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3356,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CSS/theme.css",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/step1.tpl.html",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/templates/dashboard/dashboard.tpl.html",
+			"settings":
+			{
+				"buffer_size": 15340,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/step2.tpl.html",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/step3.tpl.html",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/dashboard.json",
+			"settings":
+			{
+				"buffer_size": 9703,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controller/app.js",
+			"settings":
+			{
+				"buffer_size": 2657,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/promotion.js",
+			"settings":
+			{
+				"buffer_size": 62457,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/allowances/allowances.js",
+			"settings":
+			{
+				"buffer_size": 42318,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo/controller",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo/CSS",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo/model",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo/views"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/allowances/allowances.js",
+		"/C/Muneer/allowances/allowances.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/configurator.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/services.js",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/json/serviceDetails.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/addons.js",
+		"/C/Users/MZargar/AppData/Roaming/npm/node_modules/DemoApp/package.json",
+		"/C/Users/MZargar/AppData/Roaming/npm/node_modules/DemoApp/Gruntfile.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/serviceDetails.json",
+		"/C/Users/MZargar/AppData/Roaming/npm/node_modules/DemoApp/server.js",
+		"/C/wamp/www/mint1/trunk/vcredit/js/configurator.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/Angular_Demo/model/dashboard.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/templates/dashboard/vsppdashboard.tpl.html",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/templates/dashboard/addUser.tpl.html",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/dashboard.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/vsppdashboard.js",
+		"/C/wamp/www/mint/trunk/Angular_Demo/controller/app.js",
+		"/C/Users/MZargar/Desktop/vssp/vssp/new/vsppdashboard.js",
+		"/C/Users/MZargar/Desktop/vssp/vssp/vsppdas 1.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/vspp/vsppdas--old.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/vspp/vsppdas.json",
+		"/C/wamp/www/mint/Vcredit_BCK/vmf/c/4.2/js/vmf.js",
+		"/C/Users/MZargar/Desktop/serverJSon",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/validAddUser.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/js/common/ajaxService.js",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/adduser.json",
+		"/C/Users/MZargar/Desktop/vssp/vssp/vsppdas.json",
+		"/C/Users/MZargar/AppData/Local/Temp/wz797c/vssp/vsppdas.json",
+		"/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/json/vspp/dashboard.json",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit_configurator.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/add_on/steps/selectService.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/dashboard/js/dashboard.js",
+		"/C/Muneer/ETC/bootstrap-3.1.1/bootstrap-3.1.1/dist/css/bootstrap.css",
+		"/C/wamp/www/mint/Vcredit_BCK/dashboard/dashboard.tpl.html",
+		"/C/wamp/www/mint/trunk/Angular_Demo/Model/dashboard.json",
+		"/C/Users/MZargar/AppData/Local/Temp/wzc577/vssp/vsppdas.json",
+		"/C/Users/MZargar/AppData/Local/Temp/wza79b/vssp/vsppdas 1.json",
+		"/C/Users/MZargar/Desktop/localJson.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/adduser.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/confirmRemUser.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/dashboard.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/dashboardStatus.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/removeuser.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/rename.json",
+		"/C/wamp/www/mint/trunk/Vcredit_BCK/dashboard/json/validAddUser.json",
+		"/C/wamp/www/mint/trunk/Angular_Demo/views/step1.tpl.html",
+		"/C/wamp/www/mint/trunk/Angular_Demo/views/step3.tpl.html",
+		"/C/wamp/www/mint/trunk/Angular_Demo/views/step2.tpl.html",
+		"/C/wamp/www/mint/trunk/Angular_Demo/Controller/app.js",
+		"/C/wamp/www/mint/trunk/Angular_Demo/index.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/all_services/steps/configureService.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/all_services/steps/configureAddons.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/add_on/steps/reviewAndSubmit.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/add_on/addon.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/add_on/steps/complete.tpl.html",
+		"/C/wamp/www/mint/Vcredit_BCK/dashboard.html",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/js/common/ajaxService.js",
+		"/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/promotion.js",
+		"/C/wamp/www/mint/trunk/Angular_Demo/vendor/angular-ui-router.min.js",
+		"/C/wamp/www/mint/Vcredit_BCK/vcredit/templates/add_on/steps/configureAddons.tpl.html",
+		"/C/wamp/www/mint1/add_on/addons.js",
+		"/C/wamp/www/mint/trunk/Angular_Demo/vendor/angular.min.js",
+		"/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/common/productCart/productCart.js",
+		"/C/wamp/www/mint/Admin/dev15_bckup/customerDetails26.jsp",
+		"/C/wamp/www/mint/Admin/dev15_bckup/customerDetails.jsp",
+		"/C/wamp/www/mint/Admin/dev15_bckup/sidDetailsCustomer.jsp",
+		"/C/wamp/www/mint/Admin/customerDetails.jsp",
+		"/C/wamp/www/mint/Admin/epp_fundDetails.js",
+		"/C/wamp/www/mint/Admin/sidDetailsCustomer.jsp",
+		"/C/wamp/www/mint1/vcredit.css",
+		"/C/wamp/www/mint1/vcredit.scss",
+		"/C/wamp/www/mint/trunk/php_learning/index.php",
+		"/C/wamp/www/mint/trunk/dashboard.html",
+		"/C/Users/MZargar/Desktop/ibDetails.js",
+		"/C/wamp/www/mint/trunk/dashboard/js/dashboard.js",
+		"/C/wamp/www/TPM/imsAPP/index.html",
+		"/C/wamp/www/mint/php_learning/index.php",
+		"/C/wamp/www/mint1/dashboard.js",
+		"/C/Users/MZargar/Perforce/mzargar_p4_ws/portlet/it-custom/dev-IR-07Nov2014/it-sdp/src/main/webapp/WEB-INF/views/dashboard/subscriptionsDashboard.jsp",
+		"/C/wamp/www/mint/trunk/dashboard/json/newService.json",
+		"/C/wamp/www/mint/trunk/dashboard/json/adduser.json",
+		"/C/wamp/www/mint1/removeModalError.tpl.html",
+		"/C/wamp/www/mint1/removeModal.tpl.html",
+		"/C/wamp/www/mint1/expireFunds.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/json/dashboard.json",
+		"/C/wamp/www/mint/trunk/dashboard/json/expirefunds.json",
+		"/C/wamp/www/mint1/addUser.tpl.html",
+		"/C/wamp/www/mint1/dashboard.tpl.html",
+		"/C/wamp/www/mint1/renewal/renewal.js",
+		"/C/wamp/www/TPM/mint/Admin/epp/fundSearch.jsp",
+		"/C/Users/MZargar/Desktop/eppSearch.js",
+		"/C/wamp/www/mint1/services.js",
+		"/C/wamp/www/mint1/steps/reviewAndSubmit.tpl.html",
+		"/C/wamp/www/mint1/add_on/steps/selectService.tpl.html",
+		"/C/wamp/www/mint1/renewal/steps/selectService.tpl.html",
+		"/C/wamp/www/mint1/steps/configureService.tpl.html",
+		"/C/Users/MZargar/Downloads/jquery.tablesorter.js",
+		"/C/wamp/www/mint1/allServices.tpl.html",
+		"/C/wamp/www/mint/trunk/addons.js",
+		"/C/wamp/www/mint/trunk/dashboard/perforce/templates/dashboard.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/perforce/js/dashboard.js",
+		"/C/wamp/www/mint/trunk/css/vcredit.css",
+		"/C/wamp/www/mint/trunk/vcredit/templates/praxis_newService/newService.tpl",
+		"/C/wamp/www/mint/trunk/dashboard/perforce/templates/addUser.tpl.html",
+		"/C/Users/MZargar/Perforce/mzargar_p4_ws/portlet/it-custom/dev-IR-07Nov2014/html/static/myvmware/common/css/vcredit.css",
+		"/C/wamp/www/mint/trunk/dashboard/css/dashboard.js",
+		"/C/wamp/www/mint/trunk/dashboard/removeModalError.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/expireFunds.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/json/removeuser.json",
+		"/C/wamp/www/mint/trunk/dashboard/removeModal.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/adduser.tpl.html",
+		"/C/wamp/www/mint/trunk/vcredit/js/services.js",
+		"/C/wamp/www/mint/trunk/vcredit/js/configurator.js",
+		"/C/wamp/www/mint/trunk/css/scss/token.scss",
+		"/C/wamp/www/mint/trunk/vcredit/templates/all_services/praxisService.tpl.html",
+		"/C/wamp/www/mint/trunk/dashboard/dashboard.tpl.html",
+		"/C/wamp/www/mint/trunk/service.json",
+		"/C/wamp/www/mint/trunk/sidDetails.json",
+		"/C/wamp/www/mint/trunk/vcredit/js/p4/services.js",
+		"/C/wamp/www/mint/Admin/sdp.js",
+		"/C/Users/MZargar/Perforce/mzargar_p4_ws/portlet/it-custom/dev-IR-07Nov2014/html/static/myvmware/modules/vcredit/js/services.js",
+		"/C/wamp/www/mint/sdp.js",
+		"/C/wamp/www/service.json",
+		"/C/Users/MZargar/Perforce/mzargar_p4_ws/portlet/it-custom/dev-IR-07Nov2014/html/static/myvmware/common/css/ie7.css",
+		"/C/Users/MZargar/Perforce/mzargar_p4_ws/portlet/it-custom/dev-IR-07Nov2014/html/static/myvmware/modules/vcredit/js/dashboard.js",
+		"/C/wamp/www/mint/trunk/vcredit/js/renewal.js",
+		"/C/wamp/www/mint/trunk/dashboard/P4/dashboard.js",
+		"/C/wamp/www/mint/trunk/vmf/c/4.2/js/vmf.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\mint\\trunk",
+			"C:\\Muneer\\vmware\\it-digitalriver\\dev-IR-08Aug2014",
+			"<open files>,C:\\Muneer\\vmware\\it-digitalriver\\dev-IR-08Aug2014",
+			"<open files>,C:\\Muneer\\vmware\\it-digitalriver\\dev-IR-08Aug2014\\UpgradeportalPhoenix\\WebContent"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"forEa",
+			"tierInfo",
+			"fore",
+			"goToAddOns",
+			"<script src=\"../../assets/js/docs.min.js\"></script>",
+			"table",
+			"add",
+			"displayErrorMessage",
+			"displaySaveMessage",
+			"add",
+			"$scope.isEmpty",
+			"add",
+			"postaddUserServiceUrl",
+			"add",
+			"errorUser",
+			".container-sm-height",
+			"Dropdown",
+			"addOnSltServiceCtrl",
+			"dashboardCtrl",
+			"isHorizonProduct",
+			"cont",
+			"ibadjust",
+			"badgeBrown",
+			"removeFundGroupUsersUrl",
+			"postServiceUrl",
+			"getdashboardServiceUrl",
+			"getServiceUrl",
+			"expiredFundsUrl",
+			"resetFlag",
+			"csvDownload",
+			"add",
+			"filter_btn_arw_selected",
+			"filter_btn_arw",
+			"info",
+			"search-b-icon",
+			"requestQuote",
+			"addon",
+			"sprite-icn_addon",
+			".sprite-icn_addon",
+			"termRemHdr",
+			"balanceVal",
+			"left",
+			"submitPromotion",
+			"selectService",
+			"submitPromotion",
+			"promoCode",
+			"submitPromotion",
+			"addStep",
+			"addSection",
+			"renameEdit",
+			"dashboard",
+			"dashb",
+			"add",
+			"save",
+			"topMarginZero ",
+			"trueUp",
+			");\n",
+			"trueUp",
+			"ttlPrepaidCost",
+			"trueUp",
+			"addOnData",
+			"trueUp",
+			"addOnData.core",
+			"addOnData.core.cost",
+			"trueUp",
+			"serviceData",
+			"trueUp",
+			"goToReview",
+			"trueUp",
+			"goToReview",
+			"displayTrueUpEvt",
+			"displayTrueUpEvt  ",
+			"displayTrueUpEvt",
+			"isXaasFund",
+			"actionDropdown",
+			"Customer Price List",
+			"when",
+			"url",
+			"tbl_services_paginate",
+			"tbl_services",
+			"fnRowCallback",
+			"aData",
+			"fnRowCallback",
+			"tbl_services",
+			"vmf.datatable.",
+			"rename",
+			"msie",
+			"rename",
+			"globalVars",
+			"form",
+			"addUserForm",
+			"form",
+			"ie",
+			"bottom",
+			"msie",
+			"section",
+			"adminDetail",
+			"review",
+			"adminFlag",
+			"SubmitServiceData",
+			"user",
+			"newServiceBtnWrap",
+			"configureServiceCtrl",
+			"removeDescription",
+			".fundName",
+			"showLoader",
+			"users",
+			"bottom",
+			"<vcredit",
+			"background",
+			"starlight .accordion",
+			"starlight .accordion.panel-group",
+			"starlight .accordion",
+			"starlight",
+			"form-required",
+			"displayModalErrorMessage",
+			"add",
+			"ajaxSpinner",
+			"showLoader",
+			"remuser",
+			"dashboard styles",
+			"form-required",
+			"fundName",
+			"fundNameHead",
+			"addUser",
+			"users",
+			"add"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CSS/theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/step1.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 199.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/mint/trunk/VSPP/lmpimage2/static/myvmware/modules/vcredit/templates/dashboard/dashboard.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11873,
+								11892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/step2.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/step3.tpl.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "model/dashboard.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9703,
+								9703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "controller/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2509,
+								2509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/promotion.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 62457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7123,
+								7123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 802.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/TPM/branch/tpm_fe/Development/tpm/src/promotions/createOrEdit/allowances/allowances.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4378,
+								4421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1206.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

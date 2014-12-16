@@ -1,0 +1,14 @@
+[
+  {
+    "fname": "First Name",
+    "lname": "Last Name",
+    "email": "Email Address",
+    "contact": "Phone Number",
+    "addrs" : "Address",
+    "abt": "About",
+    "Frinds" : "Friends List",
+     "Start" : "Start Date",
+     "endDte":"End Date",
+     "Regis" : "Registration Number"
+
+  }]
